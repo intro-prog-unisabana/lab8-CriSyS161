@@ -13,6 +13,6 @@ def main():
         print(f"Error: {x}")
     except Exception as x:
         print(f"An unexpected error ocurred: {x}")
+if __name__ == "__main__":
+    main()
 
-
-# TODO: Implementar CLI según README.md
